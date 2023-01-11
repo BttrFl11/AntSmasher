@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cef5e6c7784628c42b1d1b16817cbcbb, type: 3}
+  m_Name: Level 6
+  m_EditorClassIdentifier: 
+  _name: 
+  _waveStages:
+  - _enemyVariants:
+    - {fileID: 6919295935664718027, guid: a1ddf87da5fab6d4c84d753622e80a05, type: 3}
+    - {fileID: 6435291602908691921, guid: 0ca34497fc3a94b459baeca26bc3e474, type: 3}
+    _enemyCount: 35
+    _timeBtwSpawns: 0.7
